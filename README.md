@@ -6,4 +6,5 @@
 Ставим коробки, имитирующие грузовики, с кодами под камеры.
 Ставим на ленту спичечные коробки с кодами.
 Видим, как лента останавливается, считывается код, грузики передвигаются влево и вправо.
-![image](https://github.com/user-attachments/assets/e88ce0df-a306-4ae7-abf2-2b0598ce6efc](https://github.com/tolm1/Conveyor-with-qr/blob/main/image.png)
+
+![image](https://github.com/tolm1/Conveyor-with-qr/blob/main/image.png)
